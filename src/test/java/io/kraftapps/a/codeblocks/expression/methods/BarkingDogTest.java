@@ -15,5 +15,5 @@ public class BarkingDogTest {
     }
 
     @Test
-    public void 
+    public void
 }
